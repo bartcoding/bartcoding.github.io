@@ -1,0 +1,40 @@
+*{
+    border: rgb(0, 0, 0);
+    border-width: 1px;
+    border-style: solid;
+}
+body{
+    background-color: aquamarine;
+}
+
+.biography{
+    font-style: italic;
+    background-color: brown;
+}
+
+.introduction{
+    font-style: bold;
+    background-color: yellowgreen;
+}
+
+
+#biography-location{
+    background-color: teal;
+}
+
+footer{
+    background-color: coral;
+}
+
+article h1{
+    font-size: 50px;
+}
+
+.info-left{
+width: 40%;
+margin: 0 auto;
+}
+.info-right{
+width: 40%;
+
+}

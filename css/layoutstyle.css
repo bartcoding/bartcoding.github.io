@@ -1,0 +1,32 @@
+#title-h1{
+    font-size: 60px;
+}
+
+.introduction{
+    overflow: auto;
+    position: relative;
+    background-color: darkkhaki;
+    width: 400px;
+    margin-left: 100px;  
+}
+
+.outro{
+    position: relative;
+    background-color: cornflowerblue;
+    width: 400px;
+    margin-left: 100px;
+}
+.intro-and-outro{
+    position: relative;
+    height: 600px;
+    bottom: 0;
+    border: 2px  solid darkgreen ;
+    max-width: 500px;
+    margin: 0 auto;
+}
+nav{
+    background-color: darkorange;
+    position: absolute;
+    left: 0;
+    width: 100px;
+}
